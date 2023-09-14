@@ -48,3 +48,14 @@ To navigate through the menu and perform the desired operations, simply follow t
 
 ## Additional Information
 Change the file directory in the code to the same directory of your project file for the CSV file to be created.
+
+## Contributing
+
+
+Contributions to this project are welcome. If you'd like to contribute or report any issues, please follow these guidelines:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name.
+3. Make your changes or bug fixes.
+4. Test your changes thoroughly.
+5. Create a pull request, explaining the changes you made.
