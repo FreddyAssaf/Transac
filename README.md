@@ -33,6 +33,16 @@ To run this project on your local machine, follow these steps:
    ```bash
    java Transac
 
+Or:
+1. Clone this repository to your local machine using `git clone`.
+
+   ```bash
+   git clone https://github.com/FreddyAssaf/Transac.git
+
+2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+
+3. Build and run the `Transac.java` file to execute Transac program.
+
 ## Usage
 Upon running Transac, you will be presented with a main menu that contains the following options:
 
